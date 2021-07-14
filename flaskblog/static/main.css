@@ -38,6 +38,9 @@ h1{
   height:100vh;
 }
 
+#about{
+  background-color:var(--main-text-light);
+}
 
 .bg-steel {
   background-color: #5f788a;
