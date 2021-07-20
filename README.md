@@ -20,7 +20,7 @@
 - I noticed that they dont have a Website yet so I tried to create one for free.
 
 - <em>What is the purpose of your project?</em>
-- Doing something for a good cause and to get better Web Development skils.
+- Doing something for a good cause and to improve Web Development skils.
 
 
 ## Technologies Used 🛠
