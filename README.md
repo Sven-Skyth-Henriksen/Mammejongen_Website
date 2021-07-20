@@ -35,7 +35,6 @@
 - flask-wtf - version 0.15.1
 - wtforms - version 2.3.3
 - pillow - version 8.3.1
--  - version 2.5.1
 
 
 
