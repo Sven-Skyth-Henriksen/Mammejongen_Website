@@ -17,8 +17,11 @@
 ## General Information ℹ️
 
 - What problem does it solve?
-• I saw that they dont have a Website yet so I tried to create one for them for free.
+
+• I saw that they dont have a Website yet so I tried to create one for free.
+
 - What is the purpose of your project?
+
 • Doing something for a good cause and to get better Web Development skils.
 
 
