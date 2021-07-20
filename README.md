@@ -1,9 +1,10 @@
 # Mammejongen_Website
 
 > Building a Website for a Charity called Mammejongen
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
-## Table of Contents
+
+## Table of Contents 📁
+
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
@@ -13,15 +14,16 @@
 
 
 
-## General Information
+## General Information ℹ️
+
 - What problem does it solve?
 • I saw that they dont have a Website yet so I tried to create one for them for free.
 - What is the purpose of your project?
 • Doing something for a good cause and to get better Web Development skils.
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
+## Technologies Used 🛠
+
 - Python - version 3.8 or higher
 - Flask - version 1.1.2
 - Flask_Login - version 0.5.0
@@ -37,8 +39,9 @@
 
 
 
-## Features
-Ready features here:
+## Features 🗄
+
+<em>Ready features here:</em>
 - Login/Logout
 - Create an Account
 - Create a Post
@@ -46,11 +49,12 @@ Ready features here:
 
 
 
-## Project Status
+## Project Status ⬇️
+
 Project is: _in progress_ 
 
 
-## Room for Improvement
+## Room for Improvement 
 
 Room for improvement:
 - Userinterface
@@ -62,6 +66,6 @@ To do:
 
 
 
-## Contact
+## Contact 📩
 Created by [@sven-skyth-henriksen](https://github.com/Sven-Skyth-Henriksen) - feel free to contact me!
 
