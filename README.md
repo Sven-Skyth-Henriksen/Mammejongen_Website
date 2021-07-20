@@ -17,7 +17,7 @@
 ## General Information ℹ️
 
 - <em>What problem does it solve?</em>
-- I saw that they dont have a Website yet so I tried to create one for free.
+- I moticed that they dont have a Website yet so I tried to create one for free.
 
 - <em>What is the purpose of your project?</em>
 - Doing something for a good cause and to get better Web Development skils.
