@@ -5,12 +5,12 @@
 
 ## Table of Contents 📁
 
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Project Status](#project-status)
+* [General Info](#general-information-ℹ️)
+* [Technologies Used](#technologies-used-🛠)
+* [Features](#features-🗄)
+* [Project Status](#project-status-⬇️)
 * [Room for Improvement](#room-for-improvement)
-* [Contact](#contact)
+* [Contact](#contact-📩)
 
 
 
