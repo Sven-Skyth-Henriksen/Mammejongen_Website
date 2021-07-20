@@ -8,7 +8,7 @@
 * [General Info](#general-information-ℹ%EF%B8%8F)
 * [Technologies Used](#technologies-used-)
 * [Features](#features-)
-* [Project Status](#project-status-)
+* [Project Status](#project-status-%EF%B8%8F)
 * [Room for Improvement](#room-for-improvement)
 * [Contact](#contact-)
 
