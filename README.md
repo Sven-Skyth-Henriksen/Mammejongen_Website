@@ -58,10 +58,12 @@ Project is: _in progress_
 Room for improvement:
 - Userinterface
 - Being able to comment on posts
+- ...
 
 To do:
 - A page for Events
 - An admin-page
+- ...
 
 
 
